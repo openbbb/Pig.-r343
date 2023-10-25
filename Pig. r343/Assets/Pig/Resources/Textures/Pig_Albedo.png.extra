@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "677b00a7-5855-5131-d756-2a235ccf3e2d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "Pig_Albedo",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7293119989706440705",
+    "compressionType": 1,
+    "quality": 0,
+    "maxResolution": 1024,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]

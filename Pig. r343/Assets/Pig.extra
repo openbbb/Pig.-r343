@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "d0952819-7fd0-4b87-79b2-23d6c59c89dd",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Pig",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

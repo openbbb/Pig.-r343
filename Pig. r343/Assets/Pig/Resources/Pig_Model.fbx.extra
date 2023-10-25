@@ -1,0 +1,33 @@
+[
+  {
+    "guid": {
+      "a": "1ea10e44-6e9b-2925-8125-3769500f32f5",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "Pig_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7293119989706440705",
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "materialsGUIDs": [],
+    "meshGUIDs": [
+      "b08cc848-bbb2-3a9f-a8a3-2c32b9ff5074",
+      "43373fc5-10a8-0548-5036-10cbd6019ea2",
+      "3681204e-ad3a-bad5-fb8c-e5471cbc32a3",
+      "af43aa56-f70f-3932-e127-08d4a8fad8d2",
+      "539cc328-9022-b4bc-c9d4-4afe791447cc",
+      "4ae4f72d-8dd2-a3c4-555c-c11232d174a8",
+      "ad7aa75e-8efc-a597-4ad7-c05568a70ee4"
+    ],
+    "animazGUIDs": []
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "guid": {
+      "a": "f9b401e9-3b04-e6b1-22ab-40da6496d233",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Pig_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7293119989706440705",
+    "skinObjGuid": "Guid(5470096004804212599, 12866336063108768390)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "677b00a7-5855-5131-d756-2a235ccf3e2d"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RadianceTexture",
+        "guid": "00000000-0000-0000-0000-000000000800"
+      }
+    ]
+  }
+]

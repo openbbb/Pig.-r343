@@ -1,6 +1,6 @@
 {
   "name": "",
-  "lastModified": "Wed, 25 Oct 2023 15:57:14 GMT",
+  "lastModified": "Wed, 25 Oct 2023 16:09:59 GMT",
   "version": "3.3.2",
   "internalVersion": "2.2.0",
   "toolName": "Effect House",
@@ -77,9 +77,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 563094,
-  "durationCreation": 829854,
-  "durationBackground": 12469,
+  "durationToCreate": 1328345,
+  "durationCreation": 1595105,
+  "durationBackground": 170261,
   "autoResetEffect": false,
   "effectHint": "",
   "templateID": "templateID_none",
@@ -88,5 +88,5 @@
   "overwriteBuiltinFilter": true,
   "overwriteBuiltinMakeup": true,
   "overwriteBuiltinFaceShape": false,
-  "perfTested": false
+  "perfTested": true
 }

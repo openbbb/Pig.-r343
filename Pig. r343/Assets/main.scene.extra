@@ -177,6 +177,26 @@
   },
   {
     "guid": {
+      "a": "06529e2f-51a9-b4a6-6a82-754499c32903",
+      "b": ""
+    },
+    "objGuid": "Guid(5754446309498808012, 1870885736069351808)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0.000005707891432393808
+    ]
+  },
+  {
+    "guid": {
       "a": "76ec9b67-4fff-fdfc-f908-fbd6d375d58c",
       "b": ""
     },
@@ -393,6 +413,1106 @@
       0,
       0,
       0
+    ]
+  },
+  {
+    "guid": {
+      "a": "8e96e8d0-1b45-3f9a-9433-2c253060e900",
+      "b": ""
+    },
+    "objGuid": "Guid(5184810742198461548, 1996939398394292627)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "5fdbf7a7-6e5d-ef25-770f-9f53ed30dd58",
+      "b": ""
+    },
+    "objGuid": "Guid(5079831985360377119, 13922682844255829158)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      180,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "a3ef1896-7b3f-e048-19c3-7e91df3fbc92",
+      "b": ""
+    },
+    "objGuid": "Guid(5245836735755242813, 533906921674686870)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      342.99969482421875,
+      -1.6327682207575162e-13,
+      -9.993850365319634e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "0dda7233-1eb7-2c7d-7bf9-3790c72fb08c",
+      "b": ""
+    },
+    "objGuid": "Guid(4906850110021905304, 11041063299258154153)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000001414785515407857,
+      3.33164536982006e-20,
+      3.3731117942206734e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "a1f27534-9b7d-969a-7f3a-a1b066c48f8d",
+      "b": ""
+    },
+    "objGuid": "Guid(5183158501755144968, 13024831582263216558)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      -0.000001414785515407857,
+      4.047733936224374e-12,
+      -3.3731123363217597e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "9050086e-3a56-6055-2d71-e892969e9795",
+      "b": ""
+    },
+    "objGuid": "Guid(4640878803251873636, 14882637520913702532)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      -0.000001414785515407857,
+      4.047733936224374e-12,
+      -3.3731123363217597e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "69e61f06-e433-a305-4639-20ec8aa912ad",
+      "b": ""
+    },
+    "objGuid": "Guid(5181469159652768073, 17058196167939468682)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "b37211a3-b64b-889e-0743-1cb004b20a1a",
+      "b": ""
+    },
+    "objGuid": "Guid(4678931879823929711, 15122976404375575434)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      342.99969482421875,
+      180.00001525878906,
+      0.000005707893706130562
+    ]
+  },
+  {
+    "guid": {
+      "a": "857dcf19-e73b-0fcf-d617-f8bdd8c83b20",
+      "b": ""
+    },
+    "objGuid": "Guid(4787467466300180204, 16974103422562792125)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      180,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "d3b0b801-4f57-cd8c-d047-1dc9f5b1a020",
+      "b": ""
+    },
+    "objGuid": "Guid(5086727212986870812, 17642472890857991812)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      342.99969482421875,
+      1.867029073661028e-13,
+      -1.1017107365285383e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "bceef1e9-d999-e555-51e6-4b6de4d6a6da",
+      "b": ""
+    },
+    "objGuid": "Guid(4934125446969010280, 12943782230121673115)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000001414785515407857,
+      1.3492447176882694e-12,
+      3.3731117942206734e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "9b6a6a39-77d1-428a-e848-fc123e75537f",
+      "b": ""
+    },
+    "objGuid": "Guid(5230168049693819050, 17226221280360654242)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      -0.00000424435711465776,
+      4.047734369905243e-12,
+      -6.746226841047864e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "f80f29e1-f8d7-e8cc-5473-0fe3e0316e1a",
+      "b": ""
+    },
+    "objGuid": "Guid(5534790939678199298, 5898298501748341431)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      -0.00000424435711465776,
+      4.047734369905243e-12,
+      -6.746226841047864e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "e68043a8-d964-c3cb-3b36-50c2f6f6aa9e",
+      "b": ""
+    },
+    "objGuid": "Guid(5087313049351820668, 2196127280411594634)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "4f427f9a-fc81-5f28-7213-077f73ee4f9b",
+      "b": ""
+    },
+    "objGuid": "Guid(5670243611653454576, 6428743079629817018)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      180,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "1f66b88a-8f8b-d166-47c3-b6c71e06081f",
+      "b": ""
+    },
+    "objGuid": "Guid(5731413291814595335, 1764314450888552849)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      342.99969482421875,
+      7.2338554417406e-13,
+      -1.6076657149630136e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "690f08d3-b07a-c9c0-8ec0-4ed9612e4758",
+      "b": ""
+    },
+    "objGuid": "Guid(5114497921467434223, 4477870420341848493)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000002829571030815714,
+      1.3492448261084866e-12,
+      7.352708298581562e-20
+    ]
+  },
+  {
+    "guid": {
+      "a": "00dc4fdf-d358-1bfd-4800-02f3b81521cc",
+      "b": ""
+    },
+    "objGuid": "Guid(5113464944428525827, 14025694849703729295)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      -0.0000014147854017210193,
+      8.095469607172223e-12,
+      3.373109083715242e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "cd7fab39-2262-87a0-bbba-b80bc3de7f93",
+      "b": ""
+    },
+    "objGuid": "Guid(4918155595034739411, 13765569996675848887)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      -0.0000014147854017210193,
+      8.095469607172223e-12,
+      3.373109083715242e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "fc02e358-9a08-9617-9889-29a76659d6c3",
+      "b": ""
+    },
+    "objGuid": "Guid(5006897292566962843, 10287491584109385629)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "a840b070-e981-af7e-b5e1-92f0c54f797a",
+      "b": ""
+    },
+    "objGuid": "Guid(5744167347897642463, 6902981746148862384)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      180,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "10011944-4d0e-aaa6-d717-72e50d976156",
+      "b": ""
+    },
+    "objGuid": "Guid(4697028609433453058, 12388128049671800455)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      342.9996643066406,
+      -2.99372207796314e-13,
+      -9.595940578602247e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "53cb287a-d374-1549-3c48-825055c4510b",
+      "b": ""
+    },
+    "objGuid": "Guid(5151002717812237345, 7586002627876094081)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.0000042443575694051106,
+      2.6984896522169732e-12,
+      -6.746221962138088e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "6b9766be-1a02-8e30-f6d2-cf9a55c581b8",
+      "b": ""
+    },
+    "objGuid": "Guid(4772209664267843529, 7710809389015512481)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      -5.957442427266896e-26,
+      4.047732201500898e-12,
+      1.686555842900228e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "0551a120-c07d-c338-1d8e-2e99ad5f5f11",
+      "b": ""
+    },
+    "objGuid": "Guid(5495263262846099315, 12022029019166161287)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      -5.957442427266896e-26,
+      4.047732201500898e-12,
+      1.686555842900228e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "bd13f056-e4b2-cd73-bd97-f79217ce29ad",
+      "b": ""
+    },
+    "objGuid": "Guid(5340755075731115657, 14568569852323085983)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "d8a51e76-3e2a-1ba7-8345-24fb105d9de8",
+      "b": ""
+    },
+    "objGuid": "Guid(4766031309868019056, 13425889724974844055)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      180,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "14660d25-2d8e-32c7-d258-28daef41d102",
+      "b": ""
+    },
+    "objGuid": "Guid(4910674006920194934, 12184890950042769315)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      342.9996643066406,
+      -2.5045805273488098e-12,
+      1.081322531515383e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "462d0c16-ae09-704a-e4d3-55896a32c492",
+      "b": ""
+    },
+    "objGuid": "Guid(5241984957108583538, 2094012495986960568)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000007073929282341851,
+      -1.3492445008478349e-12,
+      -2.0238674017930558e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "a7400c92-5391-2673-d180-49006932004d",
+      "b": ""
+    },
+    "objGuid": "Guid(4978685265659282346, 3505468243840891053)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000004244356205163058,
+      4.047730900458291e-12,
+      2.6984894353765387e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "d6634feb-4f4c-517c-83a8-c9c6c40a8d6f",
+      "b": ""
+    },
+    "objGuid": "Guid(4961401031670190838, 12467445221450334138)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000004244356205163058,
+      4.047730900458291e-12,
+      2.6984894353765387e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "4f55faa4-f071-5225-3634-24c849d5e89d",
+      "b": ""
+    },
+    "objGuid": "Guid(5572079941420250149, 12147542134506181248)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "c57f80e0-e541-0c4d-f56a-1eaf341a11d7",
+      "b": ""
+    },
+    "objGuid": "Guid(4678998298381350378, 9164217528895480251)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      180,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "00414c67-7297-e287-9624-2d3b15603298",
+      "b": ""
+    },
+    "objGuid": "Guid(4808924260445496113, 12327015084155527613)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      342.9996643066406,
+      -1.645100613893724e-12,
+      4.809894344794119e-13
+    ]
+  },
+  {
+    "guid": {
+      "a": "5022f915-1df2-6350-37ec-721f9aebd579",
+      "b": ""
+    },
+    "objGuid": "Guid(4935517527542016516, 2505590447964100225)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.0000028295728498051176,
+      -6.7462168663878774e-12,
+      -2.0238680523143593e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "f756c51c-4afb-b6d7-2de2-2523bbad9b4a",
+      "b": ""
+    },
+    "objGuid": "Guid(5220654587691081525, 8484800605825588871)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000007073927918099798,
+      6.7462164327070084e-12,
+      3.3731119026408907e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "a1077d65-4e0e-2353-5ef2-9494c693e870",
+      "b": ""
+    },
+    "objGuid": "Guid(5648492286511379363, 13306676234001402522)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000007073927918099798,
+      6.7462164327070084e-12,
+      3.3731119026408907e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "ed087428-9d47-e6dd-6588-9fbc91a87813",
+      "b": ""
+    },
+    "objGuid": "Guid(4778204623418206394, 4409228066775254922)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "1989723b-06ab-2096-9566-80ab712aa8d5",
+      "b": ""
+    },
+    "objGuid": "Guid(5730698083091962704, 16203655621381781897)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      180,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "7cc9b78d-a295-bc00-6c92-18871c0529f6",
+      "b": ""
+    },
+    "objGuid": "Guid(4669239723163259965, 4819751385128028333)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      342.9996643066406,
+      2.2551107032101059e-13,
+      -6.59342304604009e-14
+    ]
+  },
+  {
+    "guid": {
+      "a": "b8d46174-74b8-f417-0601-ac2f873a7b72",
+      "b": ""
+    },
+    "objGuid": "Guid(5139907045708295787, 9202123752734399930)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000002829572622431442,
+      -5.3969745339443875e-12,
+      -2.6984907364191457e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "bb467356-f170-78b6-9893-cb9014042abe",
+      "b": ""
+    },
+    "objGuid": "Guid(5734604779179930093, 15041951470984872071)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000008488711500831414,
+      5.3969732329017805e-12,
+      4.72235662032916e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "cca13329-f492-6382-260d-3ad246b43449",
+      "b": ""
+    },
+    "objGuid": "Guid(5526971468852259376, 5835345116197875901)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000008488711500831414,
+      5.3969732329017805e-12,
+      4.72235662032916e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "8b6abdb4-0472-f5f4-66d6-2a76d045f390",
+      "b": ""
+    },
+    "objGuid": "Guid(5428821238387300734, 16327105203983170493)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "007a7ec5-30f4-b85c-903c-bd8b4a8a746e",
+      "b": ""
+    },
+    "objGuid": "Guid(4989846550307865392, 3072192275819396240)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      180,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "2c20598f-194f-6c74-8412-bfb25bf4ab38",
+      "b": ""
+    },
+    "objGuid": "Guid(5478254481745429806, 14697641569419315866)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      342.9996643066406,
+      2.9167954943704055e-12,
+      -1.201844830253651e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "b12d2ff0-d136-b0b1-85ec-a70fa0e7b80b",
+      "b": ""
+    },
+    "objGuid": "Guid(5757016996012332305, 4009492373166971779)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000002829571940310416,
+      -9.444706301764416e-12,
+      -2.6984907364191457e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "a1b75feb-19fd-6511-45a4-496fee37bf63",
+      "b": ""
+    },
+    "objGuid": "Guid(5455401648924263960, 17068951142721897897)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000002829572622431442,
+      5.3969714981783046e-12,
+      5.3969801717956845e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "a2485864-2af6-c4f4-c2cf-9ead3744c25d",
+      "b": ""
+    },
+    "objGuid": "Guid(5039517681367757572, 5391615724392997033)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000002829572622431442,
+      5.3969714981783046e-12,
+      5.3969801717956845e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "09e16e71-35d3-8bcb-9e59-640f24a9cc84",
+      "b": ""
+    },
+    "objGuid": "Guid(5667368832665050693, 5865408032109016222)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "fbd6bca4-d0cc-3f66-69d1-0d6861eb38ec",
+      "b": ""
+    },
+    "objGuid": "Guid(5148617613594974690, 9069343180036700803)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      180,
+      0
+    ]
+  },
+  {
+    "guid": {
+      "a": "fa6b838d-880a-72c6-0142-720263bc7f74",
+      "b": ""
+    },
+    "objGuid": "Guid(5065659289843693538, 15441256880665363339)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      342.9996643066406,
+      6.082527710671304e-12,
+      -2.476473019707992e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "f4bf3af7-23ce-ea8e-a86b-838b55396cf9",
+      "b": ""
+    },
+    "objGuid": "Guid(4979010387226932345, 13111307131404466089)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0.000002829571940310416,
+      -1.3492437202222707e-11,
+      -2.6984911701000147e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "94a77e75-9fe4-6cf0-2253-49f9007c3093",
+      "b": ""
+    },
+    "objGuid": "Guid(5330490874866081861, 9242401903562139269)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      -5.004252551024614e-25,
+      5.3969732329017805e-12,
+      4.722357921371767e-12
+    ]
+  },
+  {
+    "guid": {
+      "a": "24b79920-86a4-261a-4cfd-353bc2bbe667",
+      "b": ""
+    },
+    "objGuid": "Guid(5663220454185887554, 5908807301568207283)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      -5.004252551024614e-25,
+      5.3969732329017805e-12,
+      4.722357921371767e-12
     ]
   },
   {
@@ -823,5 +1943,1365 @@
     "expanded": false,
     "type": "fbx_child",
     "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "2f2eaf98-6939-5c08-55df-f406b1c335f8",
+      "b": ""
+    },
+    "objGuid": "Guid(5156704956834692138, 16882734341592781985)",
+    "extraType": "Entity",
+    "name": "Face Sticker (1)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "07e40a27-55e3-017a-a407-8f967aca01e3",
+      "b": ""
+    },
+    "objGuid": "Guid(4820870045259389411, 10696860020096266122)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "anchor": "Face Center"
+  },
+  {
+    "guid": {
+      "a": "145a80df-bb98-456d-6408-7f98f717e700",
+      "b": ""
+    },
+    "objGuid": "Guid(4919430053839499188, 15815177141515982516)",
+    "extraType": "Entity",
+    "name": "Face Sticker (2)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "b2ef80e6-6dce-c7be-d4e0-d2365a330043",
+      "b": ""
+    },
+    "objGuid": "Guid(4670098958578863540, 9002878135609740460)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "anchor": "Face Center"
+  },
+  {
+    "guid": {
+      "a": "cd177627-0c42-6629-e8ff-977a61f127ee",
+      "b": ""
+    },
+    "objGuid": "Guid(5086806398376453277, 15959171046646810276)",
+    "extraType": "Entity",
+    "name": "Face Sticker (3)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "ed87f336-047f-c724-4791-bca5896dfe3e",
+      "b": ""
+    },
+    "objGuid": "Guid(5231259791352324065, 4424076493069825154)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "anchor": "Face Center"
+  },
+  {
+    "guid": {
+      "a": "63662cb0-f57a-6318-0264-5886da307989",
+      "b": ""
+    },
+    "objGuid": "Guid(5226884191695508928, 1992783740050506645)",
+    "extraType": "Entity",
+    "name": "Pig (1)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "0e8102b2-757a-376c-edac-cc905dd7d319",
+      "b": ""
+    },
+    "objGuid": "Guid(4876957588320928151, 1026963010745718147)",
+    "extraType": "Entity",
+    "name": "SkeletonAndRenderRoot",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_root",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "c878d587-3577-8e64-eb02-7ed412db50c9",
+      "b": ""
+    },
+    "objGuid": "Guid(5449235939653077613, 3108270874891346871)",
+    "extraType": "Entity",
+    "name": "head",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "35786f15-af9f-4c15-ad94-099e74d6d9f9",
+      "b": ""
+    },
+    "objGuid": "Guid(5077480501463689044, 854431821869341849)",
+    "extraType": "Entity",
+    "name": "head_1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "dc3c612c-5297-56fc-ce35-0895a8b22be6",
+      "b": ""
+    },
+    "objGuid": "Guid(5009224616550559973, 9114270403375128960)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "d5af0103-8ed0-984d-0dcd-b884297860ea",
+      "b": ""
+    },
+    "objGuid": "Guid(5237679362547116929, 12158731390689235883)",
+    "extraType": "Entity",
+    "name": "head_2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "ba6fada2-ae42-464d-2523-4bcfeb968702",
+      "b": ""
+    },
+    "objGuid": "Guid(4836860878520716415, 2302889191084287396)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "bb335f61-f1af-a02a-0390-cce9da19a591",
+      "b": ""
+    },
+    "objGuid": "Guid(4637280686426075999, 7650087103376466091)",
+    "extraType": "Entity",
+    "name": "Pig (2)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "f4c914fa-ea7e-ed5b-1256-6c93356fd71d",
+      "b": ""
+    },
+    "objGuid": "Guid(4782246363452072899, 1066032412326646695)",
+    "extraType": "Entity",
+    "name": "SkeletonAndRenderRoot",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_root",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "4e6bf2ef-1132-e3a6-6eca-eed7ff618274",
+      "b": ""
+    },
+    "objGuid": "Guid(4961802319804715225, 4037496087457331901)",
+    "extraType": "Entity",
+    "name": "head",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "9fa5217b-4346-3f4a-b45f-8770a5605d64",
+      "b": ""
+    },
+    "objGuid": "Guid(5360386349835978798, 17205661373560371103)",
+    "extraType": "Entity",
+    "name": "head_1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "8db177aa-6f3f-615d-d812-6d1d222ff7c8",
+      "b": ""
+    },
+    "objGuid": "Guid(4940881533421892604, 136663893041924253)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "d4131394-ab8d-2fa3-0a24-7c927d8330c1",
+      "b": ""
+    },
+    "objGuid": "Guid(5617273992455524063, 2194767068513186492)",
+    "extraType": "Entity",
+    "name": "head_2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "89636149-6ffe-90e7-56de-dd9d4e674be1",
+      "b": ""
+    },
+    "objGuid": "Guid(5414008764473799591, 3257162778553756074)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "2fd072ae-be88-766d-772f-3d3cc083e910",
+      "b": ""
+    },
+    "objGuid": "Guid(5122993611056382677, 528874715052312747)",
+    "extraType": "Entity",
+    "name": "Pig (3)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "fd31d6c6-c52a-b5ec-14b7-960bf165162e",
+      "b": ""
+    },
+    "objGuid": "Guid(4757431008935898042, 4948883737359872898)",
+    "extraType": "Entity",
+    "name": "SkeletonAndRenderRoot",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_root",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "ef772303-9b29-abc9-555a-3e0fb50951fb",
+      "b": ""
+    },
+    "objGuid": "Guid(4890274357891145171, 9329382198430447272)",
+    "extraType": "Entity",
+    "name": "head",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "2b540de0-b6f5-f480-aa17-5c31eb6cf1a7",
+      "b": ""
+    },
+    "objGuid": "Guid(5600471633125795156, 546757686040060587)",
+    "extraType": "Entity",
+    "name": "head_1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "1d547631-6c6f-82a7-40c8-80e2a952519b",
+      "b": ""
+    },
+    "objGuid": "Guid(5602336803546688762, 4276941748539547544)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "88cff885-2118-88d4-ddc1-88786630b638",
+      "b": ""
+    },
+    "objGuid": "Guid(5527618983158550299, 3166611982313768352)",
+    "extraType": "Entity",
+    "name": "head_2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "cc319349-997e-e523-404f-323ca6a92606",
+      "b": ""
+    },
+    "objGuid": "Guid(5324661984823088392, 2958968499668566945)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "568d6a86-44f2-51cb-3cfa-5eadf3bc16de",
+      "b": ""
+    },
+    "objGuid": "Guid(5495659892750811130, 8718728241158352778)",
+    "extraType": "Entity",
+    "name": "Face Sticker (4)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "11e40a60-a710-bf75-97bc-f6a53ed46b30",
+      "b": ""
+    },
+    "objGuid": "Guid(5292823614144262491, 17645627944522061701)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "anchor": "Face Center"
+  },
+  {
+    "guid": {
+      "a": "1de86a00-ca89-e215-ae36-a54f23db7724",
+      "b": ""
+    },
+    "objGuid": "Guid(5643604976848845906, 11486720291734453644)",
+    "extraType": "Entity",
+    "name": "Pig (4)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "8214ac8f-52b4-cc3b-1e83-f6521cae721b",
+      "b": ""
+    },
+    "objGuid": "Guid(5075026897239493717, 7645510701549237122)",
+    "extraType": "Entity",
+    "name": "SkeletonAndRenderRoot",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_root",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "a2f5a258-e570-f312-26af-16fea30b2d24",
+      "b": ""
+    },
+    "objGuid": "Guid(4802046366002712382, 8392142516778056112)",
+    "extraType": "Entity",
+    "name": "head",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "8db8c16a-c6ad-3384-5e22-9cba8b7a87e2",
+      "b": ""
+    },
+    "objGuid": "Guid(5281337422346611928, 3208740253166017920)",
+    "extraType": "Entity",
+    "name": "head_1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "767f5c64-9127-fc2e-347e-037530e25869",
+      "b": ""
+    },
+    "objGuid": "Guid(5501191971685669995, 14697084466270542738)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "d304132d-0210-3261-0d2d-64ad1b67c398",
+      "b": ""
+    },
+    "objGuid": "Guid(5014945637998920094, 10974596040313616786)",
+    "extraType": "Entity",
+    "name": "head_2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "d3a8eb00-6e54-0ded-b8c3-fbcb3b171a81",
+      "b": ""
+    },
+    "objGuid": "Guid(4713768450019342902, 7364241812796019105)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "407fae9f-eaa0-e351-c3c8-55fd007098db",
+      "b": ""
+    },
+    "objGuid": "Guid(5271976960225841355, 14363988480450279871)",
+    "extraType": "Entity",
+    "name": "Cat Face Sticker",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "8a957c52-8f89-a91a-9a4d-7f73793b743d",
+      "b": ""
+    },
+    "objGuid": "Guid(5410068645708496396, 4316437657214511025)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "anchor": "Face Center"
+  },
+  {
+    "guid": {
+      "a": "246b66c9-f303-94c5-25ba-f776b5c47699",
+      "b": ""
+    },
+    "objGuid": "Guid(4962354232229397958, 10556568225254992540)",
+    "extraType": "Entity",
+    "name": "Pig (5)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "a2e7e82b-dcc6-da3e-200f-760c20d723c8",
+      "b": ""
+    },
+    "objGuid": "Guid(5593562102192989618, 2232457862992022434)",
+    "extraType": "Entity",
+    "name": "SkeletonAndRenderRoot",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_root",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "d2f57744-fb8f-e88f-e10b-f9d626b9e7a8",
+      "b": ""
+    },
+    "objGuid": "Guid(4827398352747334935, 14377338158866240416)",
+    "extraType": "Entity",
+    "name": "head",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "a56e70aa-6fe0-045b-05a9-8d3d1be57cce",
+      "b": ""
+    },
+    "objGuid": "Guid(5477466439623545313, 7224708002135228852)",
+    "extraType": "Entity",
+    "name": "head_1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "cc1acce6-364c-f9fc-1e2d-bb0aca02f56a",
+      "b": ""
+    },
+    "objGuid": "Guid(4659411287576010496, 16258910972558563746)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "22043f41-20d5-1552-40e6-73c5d3eca4d3",
+      "b": ""
+    },
+    "objGuid": "Guid(5464718220484998824, 15804221348532047239)",
+    "extraType": "Entity",
+    "name": "head_2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "01e59938-8bc6-d96b-120b-448d2a508201",
+      "b": ""
+    },
+    "objGuid": "Guid(5042886137660395605, 17363004820389243011)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "92224e50-b71c-9b5e-b78e-7233982c65a4",
+      "b": ""
+    },
+    "objGuid": "Guid(5163493760068516247, 854088618025474733)",
+    "extraType": "Entity",
+    "name": "Cat Face Sticker (1)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "a92cfeac-9075-c844-bc20-a13f62f83f2f",
+      "b": ""
+    },
+    "objGuid": "Guid(5401290095889071674, 643559516099762581)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "anchor": "Face Center"
+  },
+  {
+    "guid": {
+      "a": "b9bb761a-8d12-7a78-fef0-694b0d9c78e3",
+      "b": ""
+    },
+    "objGuid": "Guid(5047407415969817379, 17246671111827914936)",
+    "extraType": "Entity",
+    "name": "Pig (5)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "0f4188a0-783a-4324-39cb-68ba12eddc02",
+      "b": ""
+    },
+    "objGuid": "Guid(4896546756454860404, 16902832701744842159)",
+    "extraType": "Entity",
+    "name": "SkeletonAndRenderRoot",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_root",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "dee76021-de7b-d276-7eb7-e2fe25ca6a8a",
+      "b": ""
+    },
+    "objGuid": "Guid(5340117309354297142, 17075860179405075090)",
+    "extraType": "Entity",
+    "name": "head",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "d28480ba-69e1-f044-6853-b24a91929118",
+      "b": ""
+    },
+    "objGuid": "Guid(5104400358529848966, 14562241972150280879)",
+    "extraType": "Entity",
+    "name": "head_1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "150d34ed-0799-3cbd-b797-6b94545cf1e9",
+      "b": ""
+    },
+    "objGuid": "Guid(5364802650751579763, 503657921412594353)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "faaac9a8-752a-4ef6-760a-b19c80d5b8a3",
+      "b": ""
+    },
+    "objGuid": "Guid(5207878651072053111, 8362549416962582423)",
+    "extraType": "Entity",
+    "name": "head_2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "a5c66ecc-25ab-e8d2-11b0-75fbf3b8fd10",
+      "b": ""
+    },
+    "objGuid": "Guid(4717362882212423519, 9218117832048240280)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "adf3a076-607d-523a-e682-a52eddca336f",
+      "b": ""
+    },
+    "objGuid": "Guid(4686304191286171624, 10667962047923593380)",
+    "extraType": "Entity",
+    "name": "Cat Face Sticker (2)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "ae21f55d-5396-7994-e46b-272a45bdd908",
+      "b": ""
+    },
+    "objGuid": "Guid(4810521579771714714, 311067749088103566)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "anchor": "Face Center"
+  },
+  {
+    "guid": {
+      "a": "3819db2a-4794-1fc7-fe81-de842d85b835",
+      "b": ""
+    },
+    "objGuid": "Guid(5334504980344573270, 12979386432723338126)",
+    "extraType": "Entity",
+    "name": "Pig (5)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "7850b448-6882-b954-f0e3-5d9232b4a5fd",
+      "b": ""
+    },
+    "objGuid": "Guid(5340515493117922175, 6033405794775776662)",
+    "extraType": "Entity",
+    "name": "SkeletonAndRenderRoot",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_root",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "c3d1f80b-25de-1cd4-5546-e0ff3b6b0026",
+      "b": ""
+    },
+    "objGuid": "Guid(5603638064990537695, 2108148730327717548)",
+    "extraType": "Entity",
+    "name": "head",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "0ef0ce17-ee3a-e6a1-a065-2a211e943fc2",
+      "b": ""
+    },
+    "objGuid": "Guid(5471297520540359441, 16738348736889156495)",
+    "extraType": "Entity",
+    "name": "head_1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "ea1dc2a0-4b7b-8052-4176-21c4ad928014",
+      "b": ""
+    },
+    "objGuid": "Guid(5712358116497259825, 7402793163757784467)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "781a1553-56a0-9ba3-4f3e-3fbef3c28288",
+      "b": ""
+    },
+    "objGuid": "Guid(5393316735850774333, 6962720005795225996)",
+    "extraType": "Entity",
+    "name": "head_2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "8cd1ddcc-c0b5-8a90-6165-2c1d54a6d2fd",
+      "b": ""
+    },
+    "objGuid": "Guid(5321041328766652941, 5429733947683706788)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "61b7a759-632c-6991-b3cb-cf86e490b6a3",
+      "b": ""
+    },
+    "objGuid": "Guid(4812722387539301930, 3821589092241878711)",
+    "extraType": "Entity",
+    "name": "Cat Face Sticker (3)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "afd106db-722f-e8d0-384d-813ba21ac240",
+      "b": ""
+    },
+    "objGuid": "Guid(5663730816606759191, 2003444353754679731)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "anchor": "Face Center"
+  },
+  {
+    "guid": {
+      "a": "26f25b62-364a-bc01-80bf-01683f23d18e",
+      "b": ""
+    },
+    "objGuid": "Guid(4836479063147277607, 1854991353381208986)",
+    "extraType": "Entity",
+    "name": "Pig (5)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "d94ac37e-2eb3-39e7-c108-4f3567a7d136",
+      "b": ""
+    },
+    "objGuid": "Guid(4682324815398119485, 9718951610961647493)",
+    "extraType": "Entity",
+    "name": "SkeletonAndRenderRoot",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_root",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "f27d1279-bd36-5099-8400-0b88068ad176",
+      "b": ""
+    },
+    "objGuid": "Guid(5544910334749720317, 3621935290437639357)",
+    "extraType": "Entity",
+    "name": "head",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "61a6f181-d3b4-6e97-bb84-e69acbbeaa64",
+      "b": ""
+    },
+    "objGuid": "Guid(5735740641487681198, 12701009788287147139)",
+    "extraType": "Entity",
+    "name": "head_1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "2d03a0b2-b73c-4621-076b-9038afc2a255",
+      "b": ""
+    },
+    "objGuid": "Guid(5023522807371903929, 13842983884288684989)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "bc894006-2d88-fcdc-16d5-14f13e7f7c73",
+      "b": ""
+    },
+    "objGuid": "Guid(5354446728926387769, 8563497540839715759)",
+    "extraType": "Entity",
+    "name": "head_2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "c2e78051-8b1a-5a04-fe26-d147171b386f",
+      "b": ""
+    },
+    "objGuid": "Guid(4742576510433858956, 3084958665500816038)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "1bccdd00-729d-dc53-bc2d-77797ecae4d2",
+      "b": ""
+    },
+    "objGuid": "Guid(5387864699934357185, 15358854707040211891)",
+    "extraType": "Entity",
+    "name": "Cat Face Sticker (4)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "1e96fae5-baa5-979c-6703-ab8031d5ee4d",
+      "b": ""
+    },
+    "objGuid": "Guid(5318217004487897746, 294519579441195650)",
+    "extraType": "FaceCapture",
+    "name": "Face Binding",
+    "rttiType": "FaceCapture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "anchor": "Face Center"
+  },
+  {
+    "guid": {
+      "a": "e86181f7-d6e5-cee7-65cd-481a13a27d21",
+      "b": ""
+    },
+    "objGuid": "Guid(4779518927598505415, 12935731707162581923)",
+    "extraType": "Entity",
+    "name": "Pig (5)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "6df0bad9-971a-c830-0761-25837345e664",
+      "b": ""
+    },
+    "objGuid": "Guid(5292713753602941397, 810218499014023855)",
+    "extraType": "Entity",
+    "name": "SkeletonAndRenderRoot",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_root",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "6e0e19ed-e300-1ba5-3f70-dc0103aea363",
+      "b": ""
+    },
+    "objGuid": "Guid(5038480994213616125, 5419379745632075402)",
+    "extraType": "Entity",
+    "name": "head",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "8114bbf2-d987-bc6c-cf11-1d8e2ce08538",
+      "b": ""
+    },
+    "objGuid": "Guid(5690755911643619263, 12765759188870504865)",
+    "extraType": "Entity",
+    "name": "head_1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "ab72d732-a806-96f1-1c47-04e2d3d28f78",
+      "b": ""
+    },
+    "objGuid": "Guid(5417511000356655208, 11734477127941753505)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "5cf57c17-bbaa-d2c0-b7a5-469298c9de58",
+      "b": ""
+    },
+    "objGuid": "Guid(5427196438932375691, 13474379783721399711)",
+    "extraType": "Entity",
+    "name": "head_2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "fbx_child",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "d4eb69b4-df78-02ef-95ad-4e9c3d1ef09b",
+      "b": ""
+    },
+    "objGuid": "Guid(4744885013605029113, 14075501479505999525)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "4e6fcbe4-427d-2356-58f4-4605afa6d139",
+      "b": ""
+    },
+    "objGuid": "Guid(4859820750996606350, 13181174280122607026)",
+    "extraType": "Entity",
+    "name": "Cube",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "bb2d0bba-b849-f874-5449-c6da84a5f165",
+      "b": ""
+    },
+    "objGuid": "Guid(5156312991937247987, 10427904187174170810)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
+  },
+  {
+    "guid": {
+      "a": "fe376a28-430f-7b13-d25b-92c5a4f5dc8d",
+      "b": ""
+    },
+    "objGuid": "Guid(5477124520058565366, 10708011722165733512)",
+    "extraType": "Entity",
+    "name": "Cube (1)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "42014e74-f536-33b1-28be-d6a5de1b4ad3",
+      "b": ""
+    },
+    "objGuid": "Guid(4879378252030549584, 18278536084506396329)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "visualization": false
   }
 ]
